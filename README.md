@@ -22,7 +22,7 @@ npm install -g live-server
 
 ### 2. Clone the Repository
 ```sh
-git clone https://github.com/your-username/amazon-model.git
+git clone https://github.com/Diwahar9417/Amazon-Mini-project-Javascript-fundamentals.git
 
 ```
 
